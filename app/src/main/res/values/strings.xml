@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="Logo_text">Калькулятор</string>
+    <string name="first_number">Введіть перше число</string>
+    <string name="second_number">Введіть друге число</string>
+    <string name="button_multiply">Помножити числа</string>
+</resources>
